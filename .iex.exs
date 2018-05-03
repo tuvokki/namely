@@ -1,0 +1,1 @@
+alias Namely.{Action,Repo}
